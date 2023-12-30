@@ -1,0 +1,14 @@
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\bin\Debug\Ticketing System - Cricket Grounds.exe.config
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\bin\Debug\Ticketing System - Cricket Grounds.exe
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\bin\Debug\Ticketing System - Cricket Grounds.pdb
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.csproj.AssemblyReference.cache
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.csproj.CoreCompileInputs.cache
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.exe
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.pdb
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.csproj.AssemblyReference.cache
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.csproj.CoreCompileInputs.cache
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.exe
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\obj\Debug\Ticketing System - Cricket Grounds.pdb
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\bin\Debug\Ticketing System - Cricket Grounds.exe.config
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\bin\Debug\Ticketing System - Cricket Grounds.exe
+C:\Users\booys\source\repos\Ticketing System - Cricket Grounds - Copy\Ticketing System - Cricket Grounds\bin\Debug\Ticketing System - Cricket Grounds.pdb
